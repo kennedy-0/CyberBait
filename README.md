@@ -1,6 +1,10 @@
-🛡️ CyberBait 1.0
+#🛡️ CyberBait 1.0
 
-Framework educacional para demonstrações de phishing e conscientização em cibersegurança.
+<p align="center">
+<b>Framework educacional para demonstrações de phishing e conscientização em cibersegurança.</b>
+</p>
+
+📖 Sobre o projeto
 
 O CyberBait 1.0 é um projeto desenvolvido em Python com o objetivo de estudar conceitos relacionados a servidores HTTP, páginas web, formulários e conscientização sobre ataques de engenharia social.
 
@@ -30,9 +34,7 @@ text
 CyberBait/
 │
 ├── main.py
-│
 ├── README.md
-│
 └── .gitignore
 
 ⚙️ Requisitos
@@ -41,19 +43,19 @@ Git instalado.
 Terminal ou prompt de comando.
 🚀 Instalação
 
-Clone o repositório:
+1. Clone o repositório:
 
 bash
 git clone https://github.com/SEU-USUARIO/CyberBait.git
 
 
-Entre na pasta:
+2. Entre na pasta:
 
 bash
 cd CyberBait
 
 
-Execute o projeto:
+3. Execute o projeto:
 
 bash
 python main.py
@@ -69,9 +71,6 @@ Em seguida, apresenta um menu interativo no terminal com opções de demonstraç
 O projeto utiliza uma estrutura baseada em manipuladores HTTP para responder às requisições recebidas.
 
 🔍 Conceitos estudados
-
-O CyberBait permite estudar conceitos importantes de desenvolvimento e segurança:
-
 Funcionamento do protocolo HTTP.
 Diferenças entre requisições GET e POST.
 Funcionamento de servidores web.
@@ -104,4 +103,8 @@ Desenvolvido como projeto de estudos em Python e cibersegurança.
 
 Este projeto pode ser distribuído sob a licença MIT, desde que sua utilização respeite as leis aplicáveis e as condições de uso responsável descritas neste documento.
 
-CyberBait 1.0 — Aprendizado, conscientização e segurança digital.
+<p align="center">
+🛡️ <b>CyberBait 1.0</b>
+<br>
+<i>Aprendizado, conscientização e segurança digital.</i>
+</p>
