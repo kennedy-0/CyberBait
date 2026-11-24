@@ -111,10 +111,10 @@ O principal objetivo do CyberBait é contribuir para o aprendizado de programaç
 
 O projeto também busca demonstrar a importância da identificação de páginas suspeitas e da proteção de credenciais na internet.
 
-## 👨‍💻 Autor
-
 Desenvolvido como projeto de estudos em Python e cibersegurança.
 
+## 👨‍💻 Autor
+  -Cyber Wanderer
 ## 📄 Licença
 
 Este projeto pode ser distribuído sob a licença MIT, desde que sua utilização respeite as leis aplicáveis e as condições de uso responsável descritas neste documento.
