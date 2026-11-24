@@ -225,7 +225,7 @@ def google():
 
 
 def instagram():
-    print("EM DESNVOLVIMENTO KKKKK")
+    print("EM DESENVOLVIMENTO KKKKK")
 
 
 def sair():
@@ -251,7 +251,7 @@ iniciar_servidor()
 while True:
     print(AMARELO + "=" * 31)
     print(ROJO + "CyberBait 1.0" + RESET)
-    print(ROJO + "FERRAMENTA EM DESNVOLVIMENTO" + RESET)
+    print(ROJO + "FERRAMENTA EM DESENVOLVIMENTO" + RESET)
 
     for i, pasta in enumerate(pastas):
         print(VERDE + f"[{i}] {pasta}" + RESET)
