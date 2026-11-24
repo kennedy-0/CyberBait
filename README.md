@@ -114,6 +114,7 @@ O projeto também busca demonstrar a importância da identificação de páginas
 Desenvolvido como projeto de estudos em Python e cibersegurança.
 
 # 👨‍💻 Autor
+
 ## -Cyber Wanderer
 ## 📄 Licença
 
