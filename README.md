@@ -127,3 +127,6 @@ Este projeto pode ser distribuído sob a licença MIT, desde que sua utilizaçã
   <br>
   <i>Aprendizado, conscientização e segurança digital.</i>
 </p>
+
+
+**TESTE cloudflared tunnel --url http://localhost:8000**
