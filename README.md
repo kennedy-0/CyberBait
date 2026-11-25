@@ -121,7 +121,8 @@ Desenvolvido como projeto de estudos em Python e cibersegurança.
 Este projeto pode ser distribuído sob a licença MIT, desde que sua utilização respeite as leis aplicáveis e as condições de uso responsável descritas neste documento.
 
 ---
-
+**projeto em desenvolvimento**
+---
 <p align="center">
   🛡️ <b>CyberBait 1.0</b>
   <br>
